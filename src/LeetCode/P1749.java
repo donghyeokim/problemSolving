@@ -1,6 +1,6 @@
 package LeetCode;
 
-class Solution {
+class P1749 {
     public int maxAbsoluteSum(int[] nums) {
         int maxSum = 0;
         int minSum = 0;
