@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.medium;
 
 class P1749 {
     public int maxAbsoluteSum(int[] nums) {

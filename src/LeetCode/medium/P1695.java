@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.medium;
 
 class P1695 {
     public int maximumUniqueSubarray(int[] nums) {

@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.medium;
 
 public class P2924 {
     public int findChampion(int n, int[][] edges) {
