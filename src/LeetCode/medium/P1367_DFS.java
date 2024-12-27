@@ -1,7 +1,7 @@
 package LeetCode.medium;
 
 import java.util.*;
-class P1367 {
+class P1367_DFS {
     public class ListNode {
         int val;
         ListNode next;
