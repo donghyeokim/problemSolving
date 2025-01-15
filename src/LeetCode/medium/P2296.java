@@ -10,7 +10,7 @@ class P2296 {
     }
 
     // 커서 위치에 문자열 넣음
-    // 커서 위치 변경 
+    // 커서 위치 변경
     public void addText(String text) {
         target.insert(cursor, text);
         cursor += text.length();
