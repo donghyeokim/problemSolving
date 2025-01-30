@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96d034bc-4cd4-4f5d-a931-ecaef803d03b" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/표현가능한이진트리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/medium/P731.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/medium/P731_preSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,8 @@
       <workItem from="1737729656022" duration="767000" />
       <workItem from="1737774330570" duration="2671000" />
       <workItem from="1737856876155" duration="2030000" />
-      <workItem from="1737942752988" duration="886000" />
+      <workItem from="1737942752988" duration="1168000" />
+      <workItem from="1738218321574" duration="510000" />
     </task>
     <servers />
   </component>
