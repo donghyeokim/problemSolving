@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96d034bc-4cd4-4f5d-a931-ecaef803d03b" name="변경" comment="" />
+    <list default="true" id="96d034bc-4cd4-4f5d-a931-ecaef803d03b" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/medium/P1711.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +78,7 @@
       <workItem from="1740051088492" duration="35000" />
       <workItem from="1740183912577" duration="195000" />
       <workItem from="1740272380540" duration="746000" />
+      <workItem from="1740401302944" duration="55000" />
     </task>
     <servers />
   </component>
